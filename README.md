@@ -7,7 +7,7 @@
 ### 참고
 
 * http://ooz.co.kr/67
-*https://www.cmsfactory.net/node/30010
+* https://www.cmsfactory.net/node/30010
 
 ### 설명
 
