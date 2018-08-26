@@ -22,7 +22,9 @@ Internet Explorer browser 를 지원하지 않는 사이트를 위한 Internet E
 <script>
 var agent = navigator.userAgent.toLowerCase();
 if ( (navigator.appName == 'Netscape' && navigator.userAgent.search('Trident') != -1) || (agent.indexOf("msie") != -1) ) {
+
 window.location.href="https://newpremium.github.io/IE_filtering/index.html";
+
 }
 </script>
   ```
