@@ -16,7 +16,7 @@ Internet Explorer browser 를 지원하지 않는 사이트를 위한 Internet E
 
 ### 사용법
 
-1. 당신의 사이트의 Html 코드에서 <body> 바로밑에 아래 코드를 삽입하십시오
+1. 당신의 사이트의 Html 코드에서 body 태그 바로밑에 아래 코드를 삽입하십시오
   
   ```
 <script>
