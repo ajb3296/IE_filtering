@@ -4,7 +4,7 @@
 
 ### LICENSE
 
-이 프로그램은 [GNU GPL LICENSE](http://korea.gnu.org/documents/copyleft/gpl.ko.html) 를 따릅니다.
+이 프로그램은 MIT LICENSE 를 따릅니다.
 
 ### 참고
 
