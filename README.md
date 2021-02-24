@@ -1,5 +1,7 @@
 # Internet Explorer browser filtering
 
+[![CodeFactor](https://www.codefactor.io/repository/github/newpremium/ie_filtering/badge)](https://www.codefactor.io/repository/github/newpremium/ie_filtering)
+
 ### LICENSE
 
 이 프로그램은 [GNU GPL LICENSE](http://korea.gnu.org/documents/copyleft/gpl.ko.html) 를 따릅니다.
