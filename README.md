@@ -25,7 +25,7 @@ Internet Explorer browser 를 지원하지 않는 사이트를 위한 Internet E
 var agent = navigator.userAgent.toLowerCase();
 if ( (navigator.appName == 'Netscape' && navigator.userAgent.search('Trident') != -1) || (agent.indexOf("msie") != -1) ) {
 
-window.location.href="https://newpremium.github.io/IE_filtering/";
+window.location.href="https://ajb3296.github.io/IE_filtering/";
 
 }
 </script>
@@ -40,7 +40,7 @@ window.location.href="https://newpremium.github.io/IE_filtering/";
   
   ### 미리보기
   
-  [https://newpremium.github.io/IE_filtering/](https://newpremium.github.io/IE_filtering/)
+  [https://newpremium.github.io/IE_filtering/](https://ajb3296.github.io/IE_filtering/)
   
   
   
