@@ -1,6 +1,6 @@
 # Internet Explorer browser filtering
 
-[![CodeFactor](https://www.codefactor.io/repository/github/newpremium/ie_filtering/badge)](https://www.codefactor.io/repository/github/newpremium/ie_filtering)
+[![CodeFactor](https://www.codefactor.io/repository/github/ajb3296/ie_filtering/badge)](https://www.codefactor.io/repository/github/ajb3296/ie_filtering)
 
 ### LICENSE
 
