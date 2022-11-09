@@ -35,12 +35,12 @@ window.location.href="https://ajb3296.github.io/IE_filtering/";
   
   * Internet Explorer browser 로 접속할 경우 아래 코드를 사용합니다. 원하는대로 고칠 수 있습니다.(JavaScript)
   ```
-  window.location.href="https://newpremium.github.io/IE_filtering/index.html";
+  window.location.href="https://ajb3296.github.io/IE_filtering/index.html";
   ```
   
   ### 미리보기
   
-  [https://newpremium.github.io/IE_filtering/](https://ajb3296.github.io/IE_filtering/)
+  [https://ajb3296.github.io/IE_filtering/](https://ajb3296.github.io/IE_filtering/)
   
   
   
